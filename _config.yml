@@ -1,0 +1,14 @@
+layout_spectrum: 0.4032258
+color:
+  saturation: 0.6415771
+  brandStrength: 0.6003584
+  lightness: 0.7992831
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#5C5C5C'
+    - '#EC008C'
+    - '#FFE168'
+  rhythmicContrast: 0.3960573
+typography_spectrum: 0.4784946
+name: Historypin
