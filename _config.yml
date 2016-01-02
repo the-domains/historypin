@@ -1,14 +1,7 @@
-color:
-  saturation: 0.6415771
-  brandStrength: 0.6003584
-  rhythmicContrast: 0.3960573
-  brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#5C5C5C'
-    - '#EC008C'
-    - '#FFE168'
-  lightness: 0.7992831
+name: Historypin
+favicon: null
+layout_spectrum: 0.4032258
+typography_spectrum: 0.69522
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.4032258
-typography_spectrum: 0.4784946
-name: Historypin
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#5C5C5C'
+    - '#EC008C'
+    - '#FFE168'
+  brandStrength: 0.6003584
+  lightness: 0.7992831
+  saturation: 0.6415771
+  rhythmicContrast: 0.3960573
+purpose: []
